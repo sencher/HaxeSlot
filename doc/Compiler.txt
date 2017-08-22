@@ -1,0 +1,3 @@
+D:/HaxeToolkit/haxe/haxe.exe -main Main -debug -D fdb -cp D:/Projects/HaxeSlot/src -swf HaxeSlot.swf 
+D:/HaxeToolkit/haxe/haxe.exe -main Main -cp D:/Projects/HaxeSlot/src -swf HaxeSlot.swf 
+D:/HaxeToolkit/haxe/haxe.exe -main Main -cp D:/Projects/HaxeSlot/src -as3 as3
